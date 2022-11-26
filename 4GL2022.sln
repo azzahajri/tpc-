@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex1", "ex1\ex1.csproj", "{78504C9C-814A-464A-A802-16DBC962DB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex2", "ex2\ex2.csproj", "{EBECDCED-5276-4C22-B793-F8E18432A7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comobox", "comobox\comobox.csproj", "{CC85F3EE-1028-4E03-87A7-C9C4D5A274A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78504C9C-814A-464A-A802-16DBC962DB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78504C9C-814A-464A-A802-16DBC962DB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78504C9C-814A-464A-A802-16DBC962DB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78504C9C-814A-464A-A802-16DBC962DB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBECDCED-5276-4C22-B793-F8E18432A7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBECDCED-5276-4C22-B793-F8E18432A7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBECDCED-5276-4C22-B793-F8E18432A7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBECDCED-5276-4C22-B793-F8E18432A7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC85F3EE-1028-4E03-87A7-C9C4D5A274A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC85F3EE-1028-4E03-87A7-C9C4D5A274A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC85F3EE-1028-4E03-87A7-C9C4D5A274A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC85F3EE-1028-4E03-87A7-C9C4D5A274A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

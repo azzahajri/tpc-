@@ -1,0 +1,9 @@
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\bin\Debug\comobox.exe.config
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\bin\Debug\comobox.exe
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\bin\Debug\comobox.pdb
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\obj\Debug\comobox.Form1.resources
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\obj\Debug\comobox.Properties.Resources.resources
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\obj\Debug\comobox.csproj.GenerateResource.Cache
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\obj\Debug\comobox.exe
+c:\users\azzah\documents\visual studio 2013\Projects\4GL2022\comobox\obj\Debug\comobox.pdb
+C:\Users\azzah\Documents\Visual Studio 2013\Projects\4GL2022\comobox\obj\Debug\comobox.csprojResolveAssemblyReference.cache
